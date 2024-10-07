@@ -1,0 +1,15 @@
+H:\T-Level Digital\Projects\Diary\Diary\bin\Debug\Diary.exe.config
+H:\T-Level Digital\Projects\Diary\Diary\bin\Debug\Diary.exe
+H:\T-Level Digital\Projects\Diary\Diary\bin\Debug\Diary.pdb
+H:\T-Level Digital\Projects\Diary\Diary\bin\Debug\Diary.xml
+H:\T-Level Digital\Projects\Diary\Diary\obj\Debug\Diary.vbproj.AssemblyReference.cache
+H:\T-Level Digital\Projects\Diary\Diary\obj\Debug\Diary.Form1.resources
+H:\T-Level Digital\Projects\Diary\Diary\obj\Debug\Diary.Form2.resources
+H:\T-Level Digital\Projects\Diary\Diary\obj\Debug\Diary.Resources.resources
+H:\T-Level Digital\Projects\Diary\Diary\obj\Debug\Diary.vbproj.GenerateResource.cache
+H:\T-Level Digital\Projects\Diary\Diary\obj\Debug\Diary.vbproj.CoreCompileInputs.cache
+H:\T-Level Digital\Projects\Diary\Diary\obj\Debug\Diary.exe
+H:\T-Level Digital\Projects\Diary\Diary\obj\Debug\Diary.xml
+H:\T-Level Digital\Projects\Diary\Diary\obj\Debug\Diary.pdb
+H:\T-Level Digital\Projects\Diary\Diary\obj\Debug\Diary.Form3.resources
+H:\T-Level Digital\Projects\Diary\Diary\obj\Debug\Diary.Form4.resources
